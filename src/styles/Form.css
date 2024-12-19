@@ -1,0 +1,45 @@
+
+
+.form {
+    width: clamp(300px, 40%, 700px);
+    box-shadow: 0 0 15px 1px #666;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.form__datos {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    gap: 3px;
+}
+
+.form__datos input {
+    padding: 3px 5px;
+    font-size: 1rem;
+    border-radius: 4px;
+    outline: none;
+}
+.form__datos textarea {
+    font-size: 1rem;
+    padding: 3px 5px;
+    border-radius: 4px;
+    resize: none;
+    height: 100px;
+    outline: none;
+}
+.form button {
+    margin-top: 5px;
+    width: 100%;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #4583ef;
+    border: none;
+    color: #fff;
+}
+
+.form button:hover {
+    background-color: #65a3ff;
+    cursor: pointer;
+}

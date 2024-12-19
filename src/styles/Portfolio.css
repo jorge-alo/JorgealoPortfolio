@@ -1,0 +1,126 @@
+.portfolio-container {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.portfolio-container h2 {
+    text-align: center;
+    font-size: clamp(1rem, 10vw, 4rem);
+    margin-bottom: 50px;
+}
+.portfolio-carrusel {
+    width: 100%;
+    height: 250px;
+    background-color: transparent;
+    border-radius: 8px;
+  overflow: hidden;
+    position: relative;
+    display: flex;
+    
+}
+
+.portfolio__carruseles {
+    display: flex;
+    max-width: 900%;
+    height: 250px;
+    gap: 10px;
+   position: relative;
+    padding: 10px;
+    border-radius: 8px;
+    
+}
+
+.portfolio__container-img {
+    
+    max-width: 100%;
+    width: 295px;
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+    transition: transform 0.25s ease-in-out;
+    border-radius: 8px;
+   display: flex;
+}
+.portfolio__container-img:hover {
+    transform: scale(1.058);
+    opacity: .5;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+.portfolio__container-img img {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.portfolio__container-img a {
+    text-decoration: none;
+}
+.portfolio__container-img h3 {
+    text-align: center;
+    color: #4480e2;
+}
+.portfolio__container-img p {
+    font-size: .8rem;
+    text-align: center;
+    color: #4480e2 ;
+}
+
+
+.proyecto {
+    width: 100%;
+    height: 100%;
+   text-align: center;
+}
+
+.left {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    z-index: 10;
+    border: none;
+    border-radius: 50%;  
+    transition: all .25s; 
+    width: 25px;
+    height: 25px;
+    
+}
+.left:hover {
+    transform: scale(1.3);
+}
+.arrow-left {
+    background-color: transparent;
+    border-radius: 50%;
+    width: fit-content;
+    fill: #2228;
+    border: 2px solid #ccc;
+}
+
+.right {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    z-index: 10;
+    border: none;
+    border-radius: 50%;    
+    transition: all .25s;
+    width: 25px;
+    height: 25px;
+    
+}
+.right:hover {
+    cursor: pointer;
+    transform: scale(1.3);
+}
+.arrow-right {
+    background-color: #fff;
+    border-radius: 50%;
+    fill: #2228;
+    border: 2px solid #ccc;
+}
+
+
