@@ -5,7 +5,7 @@ export const Nav = () => {
     <div className="nav-bar">
       <a href="#presentacion">
       <div className='nav__container-img'> 
-            <img className='nav__container-img__img' src="/JorgealoPortfolio/imagenes/icono-frontend.jpg" alt="logo" />
+            <img className='nav__container-img__img' src="/imagenes/icono-frontend.jpg" alt="logo" />
         </div>
       </a>
         
