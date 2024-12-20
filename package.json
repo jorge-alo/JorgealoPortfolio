@@ -2,6 +2,7 @@
   "name": "portfolio-jorgealo",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jorge-alo.github.io/JorgealoPortfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",

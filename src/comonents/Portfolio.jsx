@@ -106,7 +106,7 @@ export const Portfolio = () => {
                 >
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://web-compras-carrito.netlify.app/">
-                            <img src="/JorgealoPortfolio/imagenes/compras-carrito.png" alt="web de compras" />
+                            <img src="/imagenes/compras-carrito.png" alt="web de compras" />
                             <h3>Web de compras</h3>
                             <p>HTML CSS React</p>
                         </a>
@@ -115,7 +115,7 @@ export const Portfolio = () => {
 
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://generador-de-tweet.netlify.app/">
-                            <img src="/JorgealoPortfolio/imagenes/generador de tweet.png" alt="generador de tweet" />
+                            <img src="/imagenes/generador de tweet.png" alt="generador de tweet" />
                             <h3>Generador de tweet</h3>
                             <p>HTML CSS React</p>
                         </a>
@@ -124,49 +124,49 @@ export const Portfolio = () => {
 
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://cotizador-prestamos-intereses.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/cotizador.png" alt="cotizador" />
+                            <img src="/imagenes/cotizador.png" alt="cotizador" />
                             <h3>Cotizador</h3>
                             <p>HTML CSS React</p>
                         </a>
                     </div>
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://app-suscripciones.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/suscripciones.png" alt="suscripciones" />
+                            <img src="/imagenes/suscripciones.png" alt="suscripciones" />
                             <h3>Suscripciones</h3>
                             <p>HTML CSS React</p>
                         </a>
                     </div>
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://game-tateti.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/tateti.png" alt="tateti" />
+                            <img src="/imagenes/tateti.png" alt="tateti" />
                             <h3>Tateti</h3>
                             <p>HTML CSS React</p>
                         </a>
                     </div>
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://apliccion-clima.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/aplicacion de clima.png" alt="aplicacion de clima" />
+                            <img src="/imagenes/aplicacion de clima.png" alt="aplicacion de clima" />
                             <h3>Aplicacion de clima</h3>
                             <p>HTML CSS React</p>
                         </a>
                     </div>
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://buscador-filtrar-marcar.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/buscador-filtrar-marcar.png" alt="buscador-filtrar-marcar" />
+                            <img src="/imagenes/buscador-filtrar-marcar.png" alt="buscador-filtrar-marcar" />
                             <h3>Buscador-filtrar-marcar</h3>
                             <p>HTML CSS React</p>
                         </a>
                     </div>
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://app-buscador-gifs.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/buscador de gifs.png" alt="buscador de gifs" />
+                            <img src="/imagenes/buscador de gifs.png" alt="buscador de gifs" />
                             <h3>buscador de gifs</h3>
                             <p>HTML CSS React</p>
                         </a>
                     </div>
                     <div className="portfolio__container-img">
                         <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://busca-peliculas-ya.netlify.app">
-                            <img src="/JorgealoPortfolio/imagenes/buscador de peliculas.png" alt="buscador de peliculas" />
+                            <img src="/imagenes/buscador de peliculas.png" alt="buscador de peliculas" />
                             <h3>buscador de peliculas</h3>
                             <p>HTML CSS React</p>
                         </a>
