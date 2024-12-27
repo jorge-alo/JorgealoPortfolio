@@ -6,7 +6,7 @@ export const Presentacion = () => {
     return (
         <>
              <div className='presentacion__container-img'>
-                <img className='presentacion__img' src="/imagenes/jorge.jpg" alt="perfil" />
+                <img className='presentacion__img' src="/JorgealoPortfolio/imagenes/jorge.jpg" alt="perfil" />
             </div>
             <h1>Hola, yo soy Jorge Altamirano</h1>
             <div className="container-text">
