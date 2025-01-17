@@ -110,6 +110,22 @@ export const Portfolio = () => {
                             <h3>Web de compras</h3>
                             <p>HTML CSS React</p>
                         </a>
+                    </div>
+
+                    <div className="portfolio__container-img">
+                        <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://jorge-alo.github.io/product-list-with-cart-main/">
+                            <img src="/JorgealoPortfolio/imagenes/pagina de compras.png" alt="web de compras" />
+                            <h3>Web de compras</h3>
+                            <p>HTML CSS JS</p>
+                        </a>
+
+                    </div>
+                    <div className="portfolio__container-img">
+                        <a className='portfolio__link' target='_blank' rel="noopener noreferrer" href="https://jorge-alo.github.io/conference-ticket-generator/">
+                            <img src="/JorgealoPortfolio/imagenes/generator-ticket.png" alt="generator-ticket" />
+                            <h3>generador de ticket</h3>
+                            <p>HTML CSS React</p>
+                        </a>
 
                     </div>
 
