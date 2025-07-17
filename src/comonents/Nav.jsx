@@ -12,6 +12,7 @@ export const Nav = () => {
         <div className='nav__link'>
             <a href="#about">About me</a>
             <a href="#portfolio">Portfolio</a>
+            <a href="#fullstack">Proyecto fullstack</a>
             <a href="#form">Contact</a>
         </div>
 

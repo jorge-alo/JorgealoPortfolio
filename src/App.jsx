@@ -4,6 +4,7 @@ import { Form } from './comonents/Form'
 import { Nav } from './comonents/Nav'
 import { Portfolio } from './comonents/Portfolio'
 import { Presentacion } from './comonents/Presentacion'
+import { ProyectoLocales } from './comonents/ProyectoLocales'
 
 
 export const App = () => {
@@ -20,6 +21,9 @@ export const App = () => {
       </section>
       <section className='section-portfolio' id='portfolio'>
         <Portfolio/>
+      </section>
+      <section className='section-about' id='fullstack'>
+        <ProyectoLocales/>
       </section>
       <section className='section-form' id='form'>
         <h2>Contacto</h2>

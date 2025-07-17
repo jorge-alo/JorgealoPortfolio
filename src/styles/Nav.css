@@ -13,6 +13,7 @@
     animation-timing-function: linear;
     animation-timeline: scroll();
     animation-range: 10px 100px;
+    
 }
 
 .nav__container-img{
@@ -22,7 +23,7 @@
     background-color: #fff;
     box-shadow: 0 0 15px #333;
     overflow: hidden;
-    
+    margin-right: 10px;
 }
 .nav__container-img__img {
     width: 100%;
@@ -30,10 +31,21 @@
     object-fit: contain;
     
 }
+.nav__link {
+    
+}
 .nav__link a {
     text-decoration: none;
-    margin: 10px;
+    margin: 3px;
     color: inherit;
+    font-size: clamp(.7rem, 2.2vw, 1rem);
+    border: 1px solid #2356ff;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.nav__link a:hover {
+    opacity: .5;
 }
 
 @keyframes bajar {
