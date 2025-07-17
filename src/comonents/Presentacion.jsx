@@ -10,7 +10,7 @@ export const Presentacion = () => {
             </div>
             <h1>Hola, yo soy Jorge Altamirano</h1>
             <div className="container-text">
-                <p className="text">Desarrollador Frontend Junior</p>
+                <p className="text">Desarrollador Fullstack Junior</p>
             </div>
             <div className='presentacion-links'>
                 <a href="https://github.com/jorge-alo" target='_blank'><Github/></a>
