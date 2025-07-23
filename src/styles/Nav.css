@@ -38,7 +38,7 @@
     text-decoration: none;
     margin: 3px;
     color: inherit;
-    font-size: clamp(.7rem, 2.2vw, 1rem);
+    font-size: clamp(.6rem, 2.2vw, 1rem);
     border: 1px solid #2356ff;
     border-radius: 4px;
     padding: 4px;
